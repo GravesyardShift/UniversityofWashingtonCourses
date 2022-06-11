@@ -1,5 +1,4 @@
-// Nicholas Graves, CSE 142 BA
-// 4 Feb. 2016
+// Nicholas Graves, CSE 142
 // Assignment #5 Guessing Game
 // Plays a guessing game with the user with a random number. 
 
