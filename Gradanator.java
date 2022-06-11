@@ -1,5 +1,4 @@
-// Nicholas Graves, CSE 142 BA
-// 2 Feb. 2016
+// Nicholas Graves, CSE 142
 // Assignment #4 Gradanator
 // Prints out a course grade from a student's homework and 2 exam scores using user inputs
 
