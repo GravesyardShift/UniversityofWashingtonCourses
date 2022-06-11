@@ -1,7 +1,7 @@
-// Nicholas Graves, CSE 142 BA
-// 01/17/2016
-// Prints out the space needle and base 
+// Nicholas Graves, CSE 142
+// Prints out the space needle and base (output at bottom)
 // based off class size constant
+
 public class SpaceNeedle {
    public static final int SIZE = 4;
    public static void main(String[] args) {
