@@ -1,7 +1,5 @@
-// Nicholas Graves, CSE 142 BA
-// 01/17/2016
-//
-// Prints out a Lambda flag which is commented at the bottom
+// Nicholas Graves, CSE 142
+// Prints out a Lambda flag which is commented at the bottom of file
 
 public class AsciiArt {
    public static void main(String[] args) {
